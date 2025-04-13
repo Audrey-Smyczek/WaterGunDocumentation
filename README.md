@@ -63,7 +63,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
- - [CAD Files](/Design_Files/3D_Print_Files)
+   UPDATE THE LINK IN THE README
+ - [CAD Files](/Design_Files)
 
 ## Attribution
 

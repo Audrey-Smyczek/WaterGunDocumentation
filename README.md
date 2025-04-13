@@ -18,42 +18,26 @@ This template has a number of fields that can be searched and replaced with othe
  - <MaterialCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of the materials of the device.
  - <ShippingCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of shipping the device (if possible).
  - <YEAR> year(s) of the copyright
- 
-Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
+
 
 --->
  
-<!--- TITLE --->
-# <DeviceName>
-<!--- Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
+# Switch Adapted Watergun
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The <DeviceName> is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>. 
+The Switch Adapted Watergun is an assistive technology device that allows for users to connect a 3.5mm switch to the device allowing for them to control the watergun through a switch rather than the trigger. 
 
-<MODIFY LINE AS NECESSARY> The device is comprised of off-the-shelf electronics and 3D printed parts. 
+The device is comprised of off-the-shelf electronics and 3D printed parts:
+[Electric Shark Water Gun](https://www.walmart.com/ip/Tcovle-Electric-Shark-Water-Blaster-Super-Squirter-Fast-Fill-33-ft-Long-Range-Soaker-Toys-Summer-Swimming-Pool-Beach-Party-Backyard-Outdoor-Fun-Gift/5646402785?classType=VARIANT)
+3.5 mm Mono Jack and Nut
+Copper Wire
+3D Printed Stand
 
-The <DeviceName> is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
+The overall cost of materials is about $20.
 
 <img src="Photos/Device_Name.jpg" width="500" alt="Picture of <DeviceName>.">
-
-## Makers Making Change Assistive Device Library
-<MMCWebLink>
-
-## How to Obtain the Device
-### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
-
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
-
-### 2. Request a build of this device
-
-You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](<MMCWebLink>) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
-
-### 3. Build this device for someone else
-
-If you have the skills and equipment to build this device, and would like to donate your time to create the device for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 
 ## Build Instructions
@@ -94,33 +78,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
-
-### Build Files
-<!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
-
-
-## License
-<!--- Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
-Copyright (c) <YEAR> <DesignerName>.
-
-This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <DeviceName> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
- - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
- - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
-
-You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-Please see the CERN-OHL-W v2 for applicable conditions.
-
-Source Location: <Repository_Link> 
 
 ## Attribution
-<!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by <DesignerName>. 
 
 <!--- This is the attribution for the template. --->
 The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
@@ -128,13 +87,15 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
- - <DESIGNER 1>
- - <DESIGNER 2>
+ - Ethan Caldecott
+ - May Kinnamon
+ - Audrey Smyczek
+ - Marcus Wallace
 
-Testers:
- - <TESTER 1>
- - <TESTER 2>
-
+Instructors:
+ - Lauren Milne
+ - Brooke Schmolke
+ - Dave Bailey
 
 ---
 <!--- This is standard boilerplate for Makers Making Change. No changes should be required. --->

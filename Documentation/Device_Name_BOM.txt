@@ -1,14 +1,20 @@
-# Switch Adapted Watergun; Bill of Materials
+Bill of Materials for Switch Adapted Watergun
+---------
 
-## Materials
-[Electric Shark Water Gun](https://www.walmart.com/ip/Tcovle-Electric-Shark-Water-Blaster-Super-Squirter-Fast-Fill-33-ft-Long-Range-Soaker-Toys-Summer-Swimming-Pool-Beach-Party-Backyard-Outdoor-Fun-Gift/5646402785?classType=VARIANT)
+Materials
+---------
+Electric Shark Water Gun
+    https://www.walmart.com/ip/Tcovle-Electric-Shark-Water-Blaster-Super-Squirter-Fast-Fill-33-ft-Long-Range-Soaker-Toys-Summer-Swimming-Pool-Beach-Party-  Backyard-Outdoor-Fun-Gift/5646402785?classType=VARIANT
 3.5 mm Mono Jack and Nut
 Lead-Based Solder
 Copper Wire
 PLA Filament
 
-## Tools
+Tools
+---------
 Soldering Iron
-[Bambu A1 Mini 3D Printer](https://us.store.bambulab.com/products/a1-mini?id=579551171554607120&skr=yes&gbraid=0AAAAAo9so7OKd_sgQI358NGDaZiqhA_XT), any 3D printer will work for this.
+Bambu A1 Mini 3D Printer
+    https://us.store.bambulab.com/products/a1-mini?id=579551171554607120&skr=yes&gbraid=0AAAAAo9so7OKd_sgQI358NGDaZiqhA_XT
+    Any 3D printer will work for this.
 
 The overall cost of materials, excluding the cost of tools, is about $20.

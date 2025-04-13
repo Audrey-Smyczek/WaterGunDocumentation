@@ -56,15 +56,14 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/Switch_Adapted_Watergun_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/Switch_Adapted_Watergun_BOM.xlsx)     |
-| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf)    |
-| Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
+| Design Rationale     | 1.0     | [Switch Adapted Watergun_Design_Rationale](/Documentation/Switch_Adapted_Watergun_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [Switch Adapted Watergun_Maker_Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Switch Adapted Watergun_Bill_of_Materials](/Documentation/Switch_Adapted_Watergun_BOM.txt)     |
+| User Guide           | 1.0     | [Switch Adapted Watergun_User_Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf)    |
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
- - [CAD Files](/Design_Files/CAD_Design_Files)
+ - [CAD Files](/Design_Files/3D_Print_Files)
 
 ## Attribution
 

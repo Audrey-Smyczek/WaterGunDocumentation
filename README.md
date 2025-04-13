@@ -37,7 +37,7 @@ The [Maker Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)  conta
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Switch_Adapted_Watergun_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/Switch_Adapted_Watergun_BOM.txt) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components

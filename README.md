@@ -24,16 +24,7 @@ This template has a number of fields that can be searched and replaced with othe
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
 The Switch Adapted Watergun is an assistive technology device that allows for users to connect a 3.5mm switch to the device allowing for them to control the watergun through a switch rather than the trigger. 
 
-The device is comprised of off-the-shelf electronics and 3D printed parts:
-[Electric Shark Water Gun](https://www.walmart.com/ip/Tcovle-Electric-Shark-Water-Blaster-Super-Squirter-Fast-Fill-33-ft-Long-Range-Soaker-Toys-Summer-Swimming-Pool-Beach-Party-Backyard-Outdoor-Fun-Gift/5646402785?classType=VARIANT)
-3.5 mm Mono Jack and Nut
-Copper Wire
-3D Printed Stand
-
-
-The overall cost of materials is about $20.
-
-<img src="Photos/Device_Name.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/Switch_Adapted_Watergun.jpg" width="500" alt="Picture of Switch Adapted Watergun.">
 
 
 ## Build Instructions
@@ -41,21 +32,21 @@ The overall cost of materials is about $20.
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/Switch_Adapted_Watergun_BOM.xlsx) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
 
 All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the <DeviceName>
+### 4. Assemble the Switch Adapted Watergun
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf) for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -65,10 +56,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
+| Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/Switch_Adapted_Watergun_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/Switch_Adapted_Watergun_BOM.xlsx)     |
+| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files

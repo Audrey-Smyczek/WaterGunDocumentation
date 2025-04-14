@@ -62,9 +62,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | User Guide           | 1.0     | [Switch Adapted Watergun_User_Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf)    |
 
 ### Design Files
-<!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
-   UPDATE THE LINK IN THE README
- - [CAD Files](/Design_Files)
+
+ - [Fusion Files](/Design_Files)
 
 ## Attribution
 

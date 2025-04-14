@@ -24,7 +24,7 @@ This template has a number of fields that can be searched and replaced with othe
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
 The Switch Adapted Watergun is an assistive technology device that allows for users to connect a 3.5mm switch to the device allowing for them to control the watergun through a switch rather than the trigger. 
 
-<img src="Photos/Switch_Adapted_Watergun.jpg" width="500" alt="Picture of Switch Adapted Watergun.">
+<img src="Photos/Switch_Adapted_Watergun.jpeg" width="500" alt="Picture of Switch Adapted Watergun.">
 
 
 ## Build Instructions

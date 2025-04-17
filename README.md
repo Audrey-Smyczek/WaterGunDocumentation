@@ -32,7 +32,7 @@ The Switch Adapted Watergun is an assistive technology device that allows for us
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [User Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
@@ -46,7 +46,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 4. Assemble the Switch Adapted Watergun
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf) for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [User Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -57,7 +57,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Switch Adapted Watergun_Design_Rationale](/Documentation/Switch_Adapted_Watergun_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [Switch Adapted Watergun_Maker_Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)     |
+| User Guide          | 1.0     | [Switch Adapted Watergun_User_Guide](/Documentation/Switch_Adapted_Watergun_User_Guide.pdf)     |
 | Bill of Materials    | 1.0     | [Switch Adapted Watergun_Bill_of_Materials](/Documentation/Switch_Adapted_Watergun_BOM.txt)     |
 | Maker Checklist      | 1.0     | [Switch Adapted Watergun_Maker_Checklist](/Documentation/Switch_Adapted_Watergun_Maker_Checklist.pdf)    |
 
